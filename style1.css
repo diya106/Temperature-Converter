@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+body{
+    padding: 50px 100px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+#container{
+    height: 400px;
+    width: 800px;
+    margin:auto;
+    margin-top: 20px;
+    background-color: darkcyan;
+    padding: 100px;
+
+}
+.input-div{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
+label{
+    font-size: 32px;
+    color: whitesmoke;
+    font-weight: 800;
+    align-items: center;
+    margin-left: 50px;
+}
+.sign{
+    color:whitesmoke;
+    font-size: 50px;
+    display: inline-block;
+}
